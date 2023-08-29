@@ -1,0 +1,12 @@
+[submodule "new-members-package"]
+	path = new-members-package
+	url = git@github.com:umatt-ece/new-members-package.git
+[submodule "drivetrain-controller"]
+	path = drivetrain-controller
+	url = git@github.com:umatt-ece/drivetrain-controller.git
+[submodule "display-controller"]
+	path = display-controller
+	url = git@github.com:umatt-ece/display-controller.git
+[submodule "test-bench"]
+	path = test-bench
+	url = git@github.com:umatt-ece/test-bench.git
