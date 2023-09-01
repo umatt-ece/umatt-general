@@ -10,3 +10,6 @@
 [submodule "test-bench"]
 	path = test-bench
 	url = git@github.com:umatt-ece/test-bench.git
+[submodule "harnessing"]
+	path = harnessing
+	url = git@github.com:umatt-ece/harnessing.git
