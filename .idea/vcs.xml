@@ -4,7 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/display-controller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/drivetrain-controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/harnessing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/new-members-package" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pcb-design" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test-bench" vcs="Git" />
   </component>
 </project>
