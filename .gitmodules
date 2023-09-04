@@ -13,3 +13,6 @@
 [submodule "harnessing"]
 	path = harnessing
 	url = git@github.com:umatt-ece/harnessing.git
+[submodule "pcb-design"]
+	path = pcb-design
+	url = git@github.com:umatt-ece/pcb-design.git
