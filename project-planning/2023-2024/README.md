@@ -17,6 +17,6 @@ For a better view, check out the GitHub [Project Board](https://github.com/orgs/
 
 ## Extra Projects (Next-year)
 - [ ] [Drivetrain Controller](https://github.com/umatt-ece/umatt-general/issues/6)
-- [ ] [PID Controller](https://github.com/umatt-ece/umatt-general/issues/10)\
+- [ ] [PID Controller](https://github.com/umatt-ece/umatt-general/issues/10)
 - [ ] [Control/Relay Boards Redesign](https://github.com/umatt-ece/umatt-general/issues/14)
 
