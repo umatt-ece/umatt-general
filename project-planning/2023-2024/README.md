@@ -5,7 +5,7 @@ For a better view, check out the GitHub [Project Board](https://github.com/orgs/
 - [ ] [Sevcon Investigation](https://github.com/umatt-ece/umatt-general/issues/12) (Kam, Svan)
 - [ ] [Harnessing for 2024](https://github.com/umatt-ece/umatt-general/issues/1) (Shanon)
 - [ ] [Drivetrain Test Bench](https://github.com/umatt-ece/umatt-general/issues/2) (Kam)
-- [ ] [Control/Relay Backup Boards & Improvements](https://github.com/umatt-ece/umatt-general/issues/4) (Rita?)
+- [ ] [Control/Relay Boards Backups](https://github.com/umatt-ece/umatt-general/issues/4) (Rita?)
 
 ## Software Projects (High-priority)
 - [ ] [RPi Controller Improvements](https://github.com/umatt-ece/umatt-general/issues/11) (Kam, Zach)
@@ -15,7 +15,8 @@ For a better view, check out the GitHub [Project Board](https://github.com/orgs/
 - [ ] [Inventory System](https://github.com/umatt-ece/umatt-general/issues/9)
 - [ ] [CAN Tutorial](https://github.com/umatt-ece/umatt-general/issues/7) & [CAN Integration](https://github.com/umatt-ece/umatt-general/issues/8)
 
-## Extra Projects
+## Extra Projects (Next-year)
 - [ ] [Drivetrain Controller](https://github.com/umatt-ece/umatt-general/issues/6)
-- [ ] [PID Controller](https://github.com/umatt-ece/umatt-general/issues/10)
+- [ ] [PID Controller](https://github.com/umatt-ece/umatt-general/issues/10)\
+- [ ] [Control/Relay Boards Redesign](https://github.com/umatt-ece/umatt-general/issues/14)
 
